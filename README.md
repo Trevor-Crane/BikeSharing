@@ -1,5 +1,5 @@
 # BikeSharing
-We analize NYC CitiBike bikesharing data from August 2019 with the help of Tableau.
+We analyze NYC CitiBike bikesharing data from August 2019 with the help of Tableau.
 
 ## Overview
 To see the interactive Tableau story, please see here: [link to dashboard](https://public.tableau.com/app/profile/trevor.crane/viz/CitiBiki_Data_for_NYC/NYCStory?publish=yes)<br>
